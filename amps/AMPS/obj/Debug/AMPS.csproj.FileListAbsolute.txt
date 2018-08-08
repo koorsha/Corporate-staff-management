@@ -1,0 +1,3 @@
+D:\EhsanFaridi\C#Projects\Complete\amps\AMPS\AMPS\bin\Debug\AMPS.exe.config
+D:\EhsanFaridi\C#Projects\Complete\amps\AMPS\AMPS\obj\Debug\AMPS.exe
+D:\EhsanFaridi\C#Projects\Complete\amps\AMPS\AMPS\obj\Debug\AMPS.pdb
